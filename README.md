@@ -16,7 +16,12 @@
 
 ## 📱 Cómo probar la app
 
-### Opción 1: En tu móvil con **Expo Go**
+### Opción 1: En tu móvil ANDROID con APK
+Este proyecto incluye un archivo .apk de gran tamaño que no puede ser almacenado directamente en este repositorio. Por eso, lo he subido a MEGA. A continuación te comparto el link de descarga para instalarlo en tu dispositivo Android.
+👉[Descargar APK desde MEGA](https://mega.nz/file/Rk4HXYSS#kgm2isd3INPGlWDSjG8cmZBUQxhImMUh5Xane0V3p5g)
+
+
+### Opción 2: En tu móvil con **Expo Go**
 
 1. Instala [Expo Go](https://expo.dev/client) desde la Play Store o App Store.
 
@@ -36,7 +41,7 @@ npx expo start
 ```
 5.Escanea el código QR que aparece en tu terminal con Expo Go desde tu móvil.
 
-### Opción 2: En un emulador (Android/iOS)
+### Opción 3: En un emulador (Android/iOS)
 
     Asegúrate de tener Android Studio o Xcode instalado con los emuladores configurados.
 
